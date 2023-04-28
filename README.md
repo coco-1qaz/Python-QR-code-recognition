@@ -2,6 +2,8 @@
 It can be identified by python QR code
 
 python install:
-  pip install webbrowser
-  pip install pyzbar
-  pip install python-opencv
+```
+pip install webbrowser
+pip install pyzbar
+pip install python-opencv
+```
